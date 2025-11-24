@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Star, Users, Zap, Shield } from 'lucide-react';
+// ...existing code...
 
 const Hero = () => {
 
