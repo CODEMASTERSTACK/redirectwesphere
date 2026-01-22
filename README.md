@@ -1,6 +1,6 @@
-# WeSphere - Professional App Showcase Website
+# WeSphere 
 
-A modern, responsive website built with React and Tailwind CSS for showcasing and launching the WeSphere application.
+WeSphere is a personality-based interactive app that transforms your social and emotional traits into a beautiful, character-inspired profile. Make your personality come alive as a 2D animated character in a digital universe.
 
 ## 🚀 Features
 
